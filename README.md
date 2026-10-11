@@ -47,4 +47,4 @@ python offer_model.py
 
 ---
 
-[← Все кейсы](https://github.com/antonislav11)
+[← Все кейсы](https://github.com/antonyakovlev11)
